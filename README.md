@@ -37,6 +37,11 @@ AWS, Linux, Windows Server, Git
 
 ---
 
+🎖️ **TryHackMe Profile Badge:**  
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4996077" style='border:none;'></iframe>
+
+---
+
 📫 Reach me at: [carlos.sanchez20000@outlook.com](mailto:carlos.sanchez20000@outlook.com)
 🚀 Always building, learning, and securing the digital world. Open to collaboration in AI + Cybersecurity projects.
 
